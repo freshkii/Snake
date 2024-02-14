@@ -22,7 +22,7 @@ Install the pygame library.
 pip install pygame
 ```
 
-##Run
+## Run
 Once everything is set up, run this command in your project directory :
 Windows 
 ```bash
