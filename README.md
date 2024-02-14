@@ -25,7 +25,7 @@ Install the pygame library.
 pip install pygame
 ```
 ## Run
-Once everything is set up, run this command in your project directory :
+Once everything is set up, run this command in the terminal opened in the directory you've downloaded this :
 
 Windows 
 ```bash
