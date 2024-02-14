@@ -6,7 +6,7 @@ A simple snake game in python
 ### Python
 Python is a high-level programming language. If you haven't already installed it, you can do it from the [official site](https://www.python.org/downloads/).
 ### Pip
-Pip is a popular python package manager you can install by dowloading the [get-pip.py file](https://bootstrap.pypa.io/get-pip.py) and executing it with from the shell:
+Pip is a popular python package manager you can install by dowloading the [get-pip.py file](https://bootstrap.pypa.io/get-pip.py) and executing it from the shell:
 
 Windows
 ```bash
