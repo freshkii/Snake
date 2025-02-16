@@ -24,8 +24,6 @@ class AppleManager:
             self.apple = Apple(self.screen, self.snake, self.color)
 
 
-
-
 class Apple:
     def __init__(self, screen, snake, color):
         self.eaten = False
